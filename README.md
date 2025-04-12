@@ -8,6 +8,7 @@ This project enables face verification by comparing two images to determine if t
   - Faces with masks or partial occlusions.
   - Side profiles or angular views.
   - Variations in lighting and expressions.
+  - Presence among multiple people
 
 DeepFace parameters used for this task:
 ```Python
@@ -23,4 +24,9 @@ Explore the code to see how it tackles real-world face recognition challenges wi
 Final output:
 
 ![image](https://github.com/user-attachments/assets/5bf3a220-a0fe-4396-a97c-282378183295)
+
+Presence among multiple people:
+
+![image](https://github.com/user-attachments/assets/5e6a4619-b283-4705-adce-878b06d68152)
+
 
