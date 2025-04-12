@@ -21,12 +21,9 @@ DeepFace.verify(img1_path=profilePic,
 ```
 Explore the code to see how it tackles real-world face recognition challenges with precision!
 
-Final output:
+![image](https://github.com/user-attachments/assets/294a00d8-52a8-4e37-a191-d245271eb951)
 
-![image](https://github.com/user-attachments/assets/5bf3a220-a0fe-4396-a97c-282378183295)
 
-Presence among multiple people:
-
-![image](https://github.com/user-attachments/assets/5e6a4619-b283-4705-adce-878b06d68152)
+However, doesn't work for low-light setting :(
 
 
